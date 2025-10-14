@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyanshi seth</h1>
-<h3 align="center">A passionate Data analyst India</h3>
+<h3 align="center">A passionate Data analyst </h3>
 
 - 📄 Know about my experiences [https://github.com/Shreyansi88/RESUME/blob/main/Shreyanshi_resume%20(1).pdf](https://github.com/Shreyansi88/RESUME/blob/main/Shreyanshi_resume%20(1).pdf)
 
