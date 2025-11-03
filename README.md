@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyanshi seth</h1>
 <h3 align="center">A passionate Data analyst </h3>
 
-- 📄 Know about my experiences [https://github.com/Shreyansi88/RESUME/blob/main/Shreyanshi_resume%20(1).pdf](https://github.com/Shreyanshi88/RESUME/blob/main/Shreyanshi_resume%20(2).pdf)
+- 📄 Know about my experiences [https://github.com/Shreyansi88/RESUME/blob/main/Shreyanshi_resume%20(1).pdf](https://github.com/Shreyanshi88/RESUME/blob/main/Shreyanshi_resume%20(3).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
